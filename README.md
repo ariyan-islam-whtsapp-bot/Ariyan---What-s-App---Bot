@@ -1,4 +1,4 @@
-# 🤖 Nayan Bot
+# 🤖 Ariyan Bot
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
